@@ -24,6 +24,7 @@ email: niyana.yohannes@gmail.com
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 github_username: Niyana-Yohannes
+source: docs
 
 # Build settings
 theme: minimal-mistakes-jekyll
