@@ -27,10 +27,10 @@ github_username: Niyana-Yohannes
 source: docs
 
 # Build settings
-theme: minimal-mistakes-jekyll
-#theme: minima
-#plugins:
-  #  - jekyll-feed
+#theme: minimal-mistakes-jekyll
+theme: minima
+plugins:
+  - jekyll-feed
 
 # Navigation links
 #header_pages:
